@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lammertw/prerender-mongodb-cache/issues"
   },
-  "homepage": "https://github.com/lammertw/prerender-mongodb-cache"
+  "homepage": "https://github.com/lammertw/prerender-mongodb-cache",
+  "dependencies": {
+    "mongodb": "~1.3.23"
+  }
 }
