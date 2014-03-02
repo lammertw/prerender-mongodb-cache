@@ -1,0 +1,24 @@
+{
+  "name": "prerender-mongodb-cache",
+  "version": "0.0.0",
+  "description": "Prerender plugin for MongoDB caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lammertw/prerender-mongodb-cache.git"
+  },
+  "keywords": [
+    "prerender",
+    "mongodb",
+    "cache"
+  ],
+  "author": "Lammert Westerhoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lammertw/prerender-mongodb-cache/issues"
+  },
+  "homepage": "https://github.com/lammertw/prerender-mongodb-cache"
+}
