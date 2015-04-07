@@ -3,9 +3,6 @@
   "version": "0.0.2",
   "description": "Prerender plugin for MongoDB caching",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/lammertw/prerender-mongodb-cache.git"
