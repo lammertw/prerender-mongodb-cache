@@ -29,3 +29,9 @@ Configuration
 By default it will connect to your MongoDB instance running on localhost and use the *prerender* collection. You can overwrite this by setting the `MONGOLAB_URI` or `MONGOHQ_URL` environment variables to valid MongoDB connection strings.
 
 This is done to make it work automatically when deployed on Heroku with the MongoDB add-ons.
+
+Contributions
+-------------
+
+Creator: [lammertw](https://github.com/lammertw)
+Contributor: [YouriT](https://github.com/YouriT)
