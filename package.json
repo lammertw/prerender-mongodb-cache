@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/lammertw/prerender-mongodb-cache",
   "dependencies": {
-    "mongodb": "~2.1.0",
-    "cache-manager": "0.2.0"
+    "mongodb": "~2.1.0"
   }
 }
